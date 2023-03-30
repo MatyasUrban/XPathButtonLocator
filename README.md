@@ -8,7 +8,7 @@ There are four types of buttons, which this extension considers:
 
 `<button> <input type="button"> <input type="submit"> <input type="reset">`
 
-How to run this project
+## How to run this project
 
 1. Download (and unzip) this repository.
 
